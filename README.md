@@ -1,6 +1,6 @@
 # RNA-Seq Machine Learning
 
-RNA-seq data preprocessing and machine learning analysis of Alzheimer's disease samples using Python.
+RNA-seq data preprocessing, machine learning classification, feature analysis, and K-Means clustering of Alzheimer’s disease samples.
 
 ## Dataset
 The dataset used in this project is **GSE159699** from the NCBI Gene Expression Omnibus (GEO).
