@@ -100,5 +100,3 @@ The Random Forest model identified the following genes among the top features:
 
 ## Note
 The classification results are based on a small dataset containing only 30 samples, with 6 samples in the test set. Therefore, the reported test-set accuracies should be interpreted cautiously and are specific to this analysis.
-Tanuja Pisal  
-M.Sc. Bioinformatics
